@@ -26,6 +26,7 @@ Make sure you have the following installed:
 
 2. Navigate to the project directory:
 
+    cd DT-Fellowship-Assignment
     cd API Documentation-Task2
 
 3. Install the dependencies:
