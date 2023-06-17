@@ -72,4 +72,4 @@ Make sure you have the following installed:
 
     Endpoint: DELETE /api/nudges/{id}
 
-For more details and examples, please refer to the API Documentation file.
+For more details and examples, please refer to the API Documentation file(api-docs.md).
