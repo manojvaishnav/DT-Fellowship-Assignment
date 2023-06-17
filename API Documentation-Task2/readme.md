@@ -21,11 +21,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/nudge-management.git
+   git clone https://github.com/manojvaishnav/DT-Fellowship-Assignment
+   
 
 2. Navigate to the project directory:
 
-    cd nudge-management
+    cd API Documentation-Task2
 
 3. Install the dependencies:
 
